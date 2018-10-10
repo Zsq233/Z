@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring1/spring1.iml" filepath="$PROJECT_DIR$/spring1/spring1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/struts6/struts6.iml" filepath="$PROJECT_DIR$/struts6/struts6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/struts7/struts7.iml" filepath="$PROJECT_DIR$/struts7/struts7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/struts8/struts8.iml" filepath="$PROJECT_DIR$/struts8/struts8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/struts9/struts9.iml" filepath="$PROJECT_DIR$/struts9/struts9.iml" />
+    </modules>
+  </component>
+</project>
